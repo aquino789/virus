@@ -1,5 +1,8 @@
-# virus
-| Day     | Meal    | Price |
+# requirimientos
+| software  | vercion   | pagina |
 | --------|---------|-------|
-| Monday  | pasta   | $6    |
-| Tuesday | chicken | $8    |
+| java| 1.1  | java.com  |
+| laravel | 1.2.3| laravel.com  |
+| heroku | 1.2.3.6| heroku.com  |
+| phyton | 1.2.3.6| phyton.com  |
+| angular| 1.2.3.6| angular.com  |
